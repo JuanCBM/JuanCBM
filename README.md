@@ -5,9 +5,9 @@
 
 <h1 align="center">Juan Carlos Blázquez Muñoz</h1>
 <p align="center"> 
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=juancbm&theme=algolia&title=Commit,Repositories" alt="juancbm"/>
-</a> 
+    <a href="https://github.com/ryo-ma/github-profile-trophy">
+        <img src="https://github-profile-trophy.vercel.app/?username=juancbm&theme=algolia&title=Commit,Repositories" alt="juancbm"/>
+    </a> 
 </p>
 
 <h2> About Me </h2>
@@ -24,148 +24,83 @@
 </p>
 
 -------------------
-<h2 align="center">Languages and Tools:</h2>
 
-<h3 align="left">Languages:</h3>
+<h2 align="center">Tech Skills</h2>
 
-<a href="https://www.java.com" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="20" height="20"/> 
-</a> 
-Java
-</p>
+<h3 align="left">Languages</h3>
 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="20" height="20"/> </a>
-JavaScript 
-</p>
-
-<a href="https://www.typescriptlang.org/" target="_blank"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="20" height="20"/> </a>
-TypeScript
-</p>
-
-<a href="https://www.w3.org/html/" target="_blank"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="20" height="20"/> </a> 
-HTML5
-</p>
-
-<a href="https://www.w3schools.com/css/" target="_blank"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="20" height="20"/> </a> 
-CSS3
-</p>
-
-<h3 align="left">Frameworks:</h3>
-
-<a href="https://spring.io/" target="_blank"> 
-<img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="20" height="20"/> </a> 
-Spring
-</p>
-
-<a href="https://angular.io" target="_blank"> 
-<img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="20" height="20"/> </a>
-CSS3
-</p>
-
-<a href="https://nodejs.org" target="_blank"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="20" height="20"/> </a> 
-CSS3
-</p>
+![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=red)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=TypeScript)&nbsp;
+![HTML5](https://img.shields.io/badge/-HTML5-05122A?style=flat&logo=HTML5)&nbsp;
+![CSS3](https://img.shields.io/badge/-CSS3-05122A?style=flat&logo=CSS3)&nbsp;
 
 
-<h3 align="left">Database:</h3>
+<h3 align="left">Frameworks</h3>
 
-<a href="https://www.mysql.com/" target="_blank"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="20" height="20"/> </a> 
-
-<a href="https://www.postgresql.org" target="_blank"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="20" height="20"/> </a> 
-
-<a href="https://redis.io" target="_blank"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="20" height="20"/> </a> 
-
-<a href="https://www.mongodb.com/" target="_blank"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="20" height="20"/> </a> 
+![Spring](https://img.shields.io/badge/-Spring-05122A?style=flat&logo=Spring&logoColor=green)&nbsp;
+![Angular](https://img.shields.io/badge/-Angular-05122A?style=flat&logo=Angular&logoColor=red)&nbsp;
+![NodeJS](https://img.shields.io/badge/-NodeJS-05122A?style=flat&logo=Node.js)&nbsp;
 
 
-<h3 align="left">Queues:</h3>
+<h3 align="left">Databases</h3>
 
-<a href="https://www.rabbitmq.com" target="_blank"> 
-<img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ" width="20" height="20"/> </a> 
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=PostgreSQL)&nbsp;
+![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=MySQL)&nbsp;
+![Redis](https://img.shields.io/badge/-Redis-05122A?style=flat&logo=Redis)&nbsp;
+![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=MongoDB)&nbsp;
 
-<a href="https://kafka.apache.org/" target="_blank"> 
-<img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="20" height="20"/> </a> 
+<h3 align="left">Queues</h3>
 
+![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-05122A?style=flat&logo=RabbitMQ)&nbsp;
+![Kafka](https://img.shields.io/badge/-Kafka-05122A?style=flat&logo=Kafka)&nbsp;
 
-<h3 align="left">DevOps:</h3>
+<h3 align="left">DevOps</h3>
 
-<a href="https://www.docker.com/" target="_blank"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="20" height="20"/> </a> 
+![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=Docker)&nbsp;
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-05122A?style=flat&logo=Kubernetes)&nbsp;
+![Nginx](https://img.shields.io/badge/-Nginx-05122A?style=flat&logo=Nginx)&nbsp;
+![Jenkins](https://img.shields.io/badge/-Jenkins-05122A?style=flat&logo=Jenkins)&nbsp;
 
-<a href="https://www.jenkins.io" target="_blank"> 
-<img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="20" height="20"/> </a> 
+<h3 align="left">Graphics</h3>
 
-<a href="https://kubernetes.io" target="_blank"> 
-<img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="20" height="20"/> </a> 
+![Amcharts](https://img.shields.io/badge/-Amcharts-05122A?style=flat&logo=Amcharts)&nbsp;
 
+<h3 align="left">IDEs</h3>
 
-<h3 align="left">Libraries:</h3>
-
-<a href="https://www.amcharts.com" target="_blank"> 
-<img src="https://www.amcharts.com/wp-content/uploads/2017/10/amcharts_light_transparent.png" alt="amcharts" width="20" height="20"/> </a> 
-
-
-<h3 align="left">Others:</h3>
-
-<a href="https://git-scm.com/" target="_blank"> 
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="20" height="20"/> </a> 
-
-<a href="https://postman.com" target="_blank"> 
-<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="20" height="20"/> </a> 
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+![Intellij](https://img.shields.io/badge/-Intellij-05122A?style=flat&logo=intellij-idea)
+![eclipse](https://img.shields.io/badge/-eclipse-05122A?style=flat&logo=eclipse&logoColor=indigo)
 
 
-<h3 align="left">Some personal and as student projects:</h3>
+<h3 align="left">Others</h3>
 
-<a href="https://developer.android.com" target="_blank"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="20" height="20"/> </a> 
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=Git)&nbsp;
+![Postman](https://img.shields.io/badge/-Postman-05122A?style=flat&logo=Postman)&nbsp;
 
-<a href="https://aws.amazon.com" target="_blank"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="20" height="20"/> </a> 
 
-<a href="https://getbootstrap.com" target="_blank"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="20" height="20"/> </a> 
+<h3 align="left">Some personal and as student projects</h3>
 
-<a href="https://www.djangoproject.com/" target="_blank"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="20" height="20"/> </a> 
-
-<a href="https://firebase.google.com/" target="_blank"> 
-<img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="20" height="20"/> </a> 
-
-<a href="https://jestjs.io" target="_blank"> 
-<img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="20" height="20"/> </a> 
-
-<a href="https://mariadb.org/" target="_blank"> 
-<img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="20" height="20"/> </a> 
-
-<a href="https://www.nginx.com" target="_blank"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="20" height="20"/> </a> 
-
-<a href="https://github.com/puppeteer/puppeteer" target="_blank"> 
-<img src="https://www.vectorlogo.zone/logos/pptrdev/pptrdev-official.svg" alt="puppeteer" width="20" height="20"/> </a> 
-
-<a href="https://www.selenium.dev" target="_blank"> 
-<img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="20" height="20"/> </a> 
-
-<a href="https://www.sqlite.org/" target="_blank"> 
-<img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="20" height="20"/> </a> 
+![Android](https://img.shields.io/badge/-Android-05122A?style=flat&logo=Android)&nbsp;
+![AWS](https://img.shields.io/badge/-AWS-05122A?style=flat&logo=AWS)&nbsp;
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=Bootstrap)&nbsp;
+![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=Django)&nbsp;
+![Firebase](https://img.shields.io/badge/-Firebase-05122A?style=flat&logo=Firebase)&nbsp;
+![Jest](https://img.shields.io/badge/-Jest-05122A?style=flat&logo=Jest)&nbsp;
+![MariaDB](https://img.shields.io/badge/-MariaDB-05122A?style=flat&logo=MariaDB)&nbsp;
+![Puppeteer](https://img.shields.io/badge/-Puppeteer-05122A?style=flat&logo=Puppeteer)&nbsp;
+![Selenium](https://img.shields.io/badge/-Selenium-05122A?style=flat&logo=Selenium)&nbsp;
+![SQLite](https://img.shields.io/badge/-SQLite-05122A?style=flat&logo=SQLite&logoColor=blue)&nbsp;
 
 <p>
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=juancbm&show_icons=true&locale=en&theme=tokyonight" alt="juancbm" /></p>
+-------------------
 
-<p>&nbsp;
+<p align="center"> 
+    <a href="https://github-readme-streak-stats.herokuapp.com/?user=juancbm&theme=tokyonight">
+        <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=juancbm&theme=tokyonight" alt="juancbm" /></p>
+    </a> 
+</p>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=juancbm&show_icons=true&locale=en&theme=tokyonight" alt="juancbm" /></p>
 
-<p>
 
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=juancbm&theme=tokyonight" alt="juancbm" /></p>
