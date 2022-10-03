@@ -12,7 +12,7 @@
 
 <h2> About Me </h2>
 
-- 🎓 I’m currently working on my Master's final project [Monolith to Microservices](https://github.com/MasterCloudApps-Projects/Monolith-to-Microservices-Examples).
+- 🎓 My Master's final project [Monolith to Microservices](https://github.com/MasterCloudApps-Projects/Monolith-to-Microservices-Examples).
 
 - 🌱 I love tech, new frameworks and opportunities to learn.
 
