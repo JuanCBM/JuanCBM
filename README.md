@@ -61,6 +61,8 @@
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-05122A?style=flat&logo=Kubernetes)&nbsp;
 ![Nginx](https://img.shields.io/badge/-Nginx-05122A?style=flat&logo=Nginx)&nbsp;
 ![Jenkins](https://img.shields.io/badge/-Jenkins-05122A?style=flat&logo=Jenkins)&nbsp;
+![Openshift](https://img.shields.io/badge/-Openshift-05122A?style=flat&logo=Openshift&logoColor=red)&nbsp;
+
 
 <h3 align="left">Graphics</h3>
 
